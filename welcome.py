@@ -1,7 +1,7 @@
-BOT_PREFIX = "Your Bot's Prefix Here"
-BOT_TOKEN = "Your Bot Token Here"
-WELCOME_CHANNEL_ID = Welcome Channel ID Here #Put it without " " Ex - 620498262436347905
-LEAVE_CHANNEL_ID = Leave Channel ID Here #Put it without " " Ex - 620363449879052624
+BOT_PREFIX = "?"
+BOT_TOKEN = "ODEwOTIyNjIwNDYzNzQzMDA2.YCqsig.nHGLpiYktIGioPCHBnsGbEoQ0oc"
+WELCOME_CHANNEL_ID = 806910868959920182 #Put it without " " Ex - 620498262436347905
+LEAVE_CHANNEL_ID = 806979733539389450 #Put it without " " Ex - 620363449879052624
 
 import discord
 from discord.ext import commands
